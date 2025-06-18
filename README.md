@@ -1,9 +1,8 @@
-Use at your own risk. Written with the help of AI. It works on my RTX 4090 windows 11 machine under WSL2
+Use at your own risk. Written with Gemini, Claude and OpenAI under my prompting.  They  work on my RTX 4090 windows 11 machine under WSL2
 
 
 # quickSegMatte
 Various scripts to procedurally generate mattes with AI segmenting
-
 
 
 ## multi_object_remover4.py
