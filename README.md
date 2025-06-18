@@ -2,6 +2,7 @@ Use at your own risk. Written with the help of AI. It works on my RTX 4090 windo
 
 
 # quickSegMatte
+Various scripts to procedurally generate mattes with AI segmenting
 
 
 
